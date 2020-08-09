@@ -1,7 +1,7 @@
 # Myers-Briggs Type Indicator Predictor
 
 ## What is the [Myers-Briggs Type Indicator](https://www.myersbriggs.org/) (MBTI)?
-The MBTI was created by Isabel Briggs Meyers and Katherine Briggs to contextualize psychologist [Carl Jung's theory] (https://www.verywellmind.com/what-are-jungs-4-major-archetypes-2795439) of the 4 psychological archetypes. Myers and Briggs theorized that differences in personality are not random (or by this logic, very unique) but follow consistent rules in which people perceive the world. 
+The MBTI was created by Isabel Briggs Meyers and Katherine Briggs to contextualize psychologist [Carl Jung's theory](https://www.verywellmind.com/what-are-jungs-4-major-archetypes-2795439) of the 4 psychological archetypes. Myers and Briggs theorized that differences in personality are not random (or by this logic, very unique) but follow consistent rules in which people perceive the world. 
 
 ## What are the MBTI types?
 There are 4 different MBTI identifiers that make up 16 total different classifications.
