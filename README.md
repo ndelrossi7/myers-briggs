@@ -20,12 +20,10 @@ The classifications are as follows:
 **Structure**: *In dealing with the outside world, do you prefer to get things decided or do you prefer to stay open to new information and options?* [[1]](#1)
 - **J**udging or **P**erceiving
 
-|      |      |      |      |
-| ---- | ---- | ---- | ---- |
-| ISTJ | ISFJ | INFJ | INTJ |
-| ISTP | ISFP | INFP | INTP |
-| ESTP | ESFP | ENFP | ENTP |
-| ESTJ | ESFJ | ENFJ | ENTJ |
+<p align="center">
+  <img src="images/MBTI_table.png" height=250 width=250>
+</p>
+
 
 Take the test yourself [here](https://www.16personalities.com/free-personality-test)!
 For more information on each of the classifications and types, please visit [this page](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.htm). 
