@@ -30,6 +30,11 @@ For more information on each of the classifications and types, please visit [thi
 
 ## The Data
 I have selected a [dataset](https://www.kaggle.com/datasnaek/mbti-type) provided by Kaggle with MBTI type classifications for over 8,500 anonymized users and many of their forum posts on the site [PersonalityCafe](https://www.personalitycafe.com/). I have transformed this data so that each observation becomes a post with an associated MBTI type as opposed to each user and their multiple posts. This leaves us with almost 380,000 observations. 
+I will start out with a binary classification of introvert vs. extrovert before moving on to a 16 multi-class classification of all MTBI types.
+
+## Exploratory Data Analysis
+Before any data pre-processing or cleaning, I took a look at the data and I noticed a very heavy class imbalance between introverts and extroverts, with introverts making up over 3x the amount of introverts. 
+Further, the 4 IN categories make up over 66% of the data while the 4 ES categories make up just over 2% of the data. 
 
 ## References
 <a id="1">[1]</a> 
