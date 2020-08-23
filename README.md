@@ -34,7 +34,7 @@ I will start out with a binary classification of introvert vs. extrovert before 
 
 ## Exploratory Data Analysis
 Before any data pre-processing or cleaning, I took a look at the data and I noticed a very heavy class imbalance between introverts and extroverts, with introverts making up over 3x the amount of introverts. 
-Further, the 4 IN categories make up over 66% of the data while the 4 ES categories make up just over 2% of the data. 
+Further, the 4 IN categories make up over 66% of the data while the 4 ES categories make up just over 2% of the data. [For reference](https://scholarworks.arcadia.edu/cgi/viewcontent.cgi?article=1024&context=undergrad_works).
 
 ## Technology
 - SpaCy
